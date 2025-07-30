@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @8Bit-Michael
+- 👋 Hi, I’m 8-Bit Michael.
 - 👀 I’m interested in cybersecurity and computer science.
 - 🌱 I’m currently learning Python data structures, OOP, and how back-end
   coding works.
