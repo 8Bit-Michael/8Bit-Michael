@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity and computer science.
 - 🌱 I’m currently learning Python data structures, OOP, and how back-end
   coding works.
-- 📫 You can reach me using my gmail account: mowz2012@gmail.com
+- 📫 You can reach me using my gmail account: schundlermichael@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm taking a 300 hour Python course on FreeCodeCamp.
 
